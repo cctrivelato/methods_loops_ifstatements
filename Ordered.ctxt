@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ordered
+comment0.text=\r\n\ Ordered\r\n\ Reading\ three\ strings\ and\ displaying\ the\ second\r\n\ @author\ (Caique\ Trivelato)\r\n\ @version\ (2/10/2024)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

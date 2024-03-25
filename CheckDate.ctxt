@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CheckDate
+comment0.text=\r\n\ CheckDate\r\n\ This\ program\ checks\ if\ a\ date\ is\ valid\r\n\ @author\ (Caique\ Trivelato)\r\n\ @version\ (2/12/2024)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
